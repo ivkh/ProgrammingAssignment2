@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The file contains functions which allow to cach computation of inverse matrix
 
 ## makeCacheMatrix function creates a special matrix 
 ## it is a list that contains 4 functions
@@ -26,7 +25,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ## cacheSolve function calculates an inverse matrix of 
 ## special matrix created by makeCacheMatrix
 ## If matrix contains cached value of inverse matrix, 
-## cached value if returned. 
+## cached value is returned. 
 ## If matrix doesn't contain cached value of inverse matrix,
 ## inverse matrix is calculated, cashed and returned.
 
