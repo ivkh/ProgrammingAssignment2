@@ -1,4 +1,4 @@
-## The file contains functions which allow to cach computation of inverse matrix
+## The file contains functions which allow to cache computation of inverse matrix
 
 ## makeCacheMatrix function creates a special matrix 
 ## it is a list that contains 4 functions
